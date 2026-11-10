@@ -1,0 +1,22 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: orangered;
+        }
+
+        label {
+            background-color: chartreuse;
+            color: blue;
+        }
+
+        input {
+            background-color: yellow;
+            color: red;
+        }
+
+        h1:hover {
+            color: aqua;
+        }
